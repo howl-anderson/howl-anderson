@@ -29,3 +29,7 @@ Some selected fects about me:
 * Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me.
 * The lead organizer for Shanghai TensorFlow User Group (TFUG)
 * Found the Rasa Chinese community.
+
+The books that I am working on:
+* [Orignal writing] A book about [Rasa framework](https://github.com/RasaHQ/rasa), I am the main auther, as far as I know this is the first book in the world that forcus on Rasa, ETA published in March 2021
+* [Translating] Chinese version of [Building Machine Learning Pipelines by O'reilly](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198), I am one of three translators, ETA published in May 2021
