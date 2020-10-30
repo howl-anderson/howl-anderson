@@ -26,9 +26,9 @@ Some selected fects about me:
 * Graduated from Chief AI Architect Training Plan by Baidu Huangpu Academy & National Engineering Laboratory for Deep Learning Technology and Applications
 * TensorFlow Core and TensorFlow Addons contributer
 * SuperHero for Rasa (https://github.com/RasaHQ/rasa). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
-* Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me.
+* Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
 * The lead organizer for Shanghai TensorFlow User Group (TFUG)
-* Found the Rasa Chinese community.
+* Found the Rasa Chinese community
 
 The books that I am working on:
 * [Orignal writing] A book about [Rasa framework](https://github.com/RasaHQ/rasa), I am the main auther, as far as I know this is the first book in the world that forcus on Rasa, ETA published in March 2021
