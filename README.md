@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am Xiaoquan Kong, a passionate and creative developer dedicated to **Deep Neural network Systems** and **Chatbots**.
 
 Some facts about me:
-* Ex Machine Learning Engineer lead a team at ELE.ME, directly leaded by and report to VP
+* Ex Machine Learning Engineer lead a team at [ELE.ME](https://www.ele.me/) (a subsidiary of Alibaba Group), directly leaded by and report to VP
 * Machine Learning expert in [Ecarx](https://www.ecarx.com.cn/) (an industry-leading digital cockpit and smart move solution provider)
 * Google Developer Expert (GDE) in Machine Learning ([My page on Google Developer](https://developers.google.com/community/experts/directory/profile/profile-xiaoquan_kong))
 * Graduated from [Chief AI Architect Training Plan by Baidu Huangpu Academy](https://ai.baidu.com/tech/paddle/huangpu)
