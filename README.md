@@ -29,12 +29,21 @@ Some selected fects about me:
 * SuperHero for Rasa (https://github.com/RasaHQ/rasa). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
 * Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
 
-I am also active as a community organizer and guest speaker on artificial intelligence topics
+<details>
+  <summary>I am also active as a community organizer and guest speaker on artificial intelligence topics:</summary>
+  <br>
+
 * I am lead organizer for Shanghai TensorFlow User Group (TFUG), organize or co-organize events that directly influence more than 6000 people every year
 * I frequently share my knowledge & thought at community events, such as Google TensorFlow Dev Summit Extended, Google DevFest and TensorFlow salons, influence more than 4000 people directly
 * Sometimes I am entrusted by Google as a TensorFlow ambassador to go to universities to promote TensorFlow
 * I found the Rasa Chinese community, the biggest and well-managed community for Chinese Rasa user
 
-The books that I am working on:
+</details>
+
+<details>
+  <summary>The books that I am working on:</summary>
+  <br>
+
 * [Orignal writing] A book about [Rasa framework](https://github.com/RasaHQ/rasa), I am the main auther, as far as I know this is the first book in the world that forcus on Rasa, ETA published in March 2021
 * [Translating] Chinese version of [Building Machine Learning Pipelines by O'reilly](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198), I am one of three translators, ETA published in May 2021
+</details>
