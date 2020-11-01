@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Xiaoquan Kong (http://blog.xiaoquankong.ai/), a passionate and creative developer from China Shanghai.
+I am Xiaoquan Kong, a passionate and creative developer from China Shanghai.
 
 I make elegantly professional **Deep Neural network Systems and Chatbots**.
 
