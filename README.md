@@ -39,7 +39,7 @@ Some facts about me:
 </details>
 
 <details>
-  <summary>The books that I am writing or translating:</summary>
+  <summary>The books that I am writing or translating</summary>
   <br>
 
 * [Orignal writing] A book about [Rasa framework](https://github.com/RasaHQ/rasa), I am the main auther, as far as I know this is the first book in the world that forcus on Rasa, ETA published in March 2021
