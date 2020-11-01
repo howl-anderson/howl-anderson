@@ -23,7 +23,7 @@ I make elegantly professional **Deep Neural network Systems and Chatbots**.
 Some selected fects about me:
 * Ex Machine Learning Engineer lead a team at ELE.ME, directly leaded by and report to VP
 * Machine Learning expert in Ecarx (an industry-leading digital cockpit and smart move solution provider investment by Geely Group and Baidu)
-* Google Developer Expert (GDE) in Machine Learning ([My page on Google Developer](https://developers.google.com/community/experts/directory/profile/profile-xiaoquan_kong)
+* Google Developer Expert (GDE) in Machine Learning ([My page on Google Developer](https://developers.google.com/community/experts/directory/profile/profile-xiaoquan_kong))
 * Graduated from Chief AI Architect Training Plan by Baidu Huangpu Academy & National Engineering Laboratory for Deep Learning Technology and Applications
 * TensorFlow Core and TensorFlow Addons contributer
 * SuperHero for Rasa (https://github.com/RasaHQ/rasa). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
