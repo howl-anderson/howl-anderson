@@ -30,7 +30,7 @@ Some facts about me:
 * Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
 
 <details>
-  <summary>As an active community leader, organizer and guest speaker, I ...</summary>
+  <summary>As an active community leader, organizer and speaker, I ...</summary>
   <br>
 
 * I am lead organizer for Shanghai TensorFlow User Group (TFUG), organize or co-organize events that directly influence more than 6000 people every year
