@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Xiaoquan Kong, a passionate and creative developer from China Shanghai.
-
-I make elegantly professional **Deep Neural network Systems and Chatbots**.
+I am Xiaoquan Kong, a passionate and creative developer dedicated to **Deep Neural network Systems** and **Chatbots**.
 
 Some facts about me:
 * Ex Machine Learning Engineer lead a team at ELE.ME, directly leaded by and report to VP
