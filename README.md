@@ -24,7 +24,7 @@ Some facts about me:
 * Google Developer Expert (GDE) in Machine Learning ([My page on Google Developer](https://developers.google.com/community/experts/directory/profile/profile-xiaoquan_kong))
 * Graduated from [Chief AI Architect Training Plan by Baidu Huangpu Academy](https://ai.baidu.com/tech/paddle/huangpu)
 * TensorFlow Core and TensorFlow Addons contributer
-* SuperHero for [Rasa](https://github.com/RasaHQ/rasa). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
+* SuperHero for [Rasa](https://github.com/RasaHQ/rasa) (a popular open-sourced machine learning framework for chatbot). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
 * Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
 
 <details>
