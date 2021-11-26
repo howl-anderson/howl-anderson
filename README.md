@@ -23,9 +23,11 @@ Some facts about me:
 * Machine learning expert and Senior Manager in an industry-leading digital cockpit and smart move solution provider
 * Google Developer Expert (GDE) in Machine Learning ([My page on Google Developer](https://developers.google.com/community/experts/directory/profile/profile-xiaoquan_kong))
 * Graduated from [Chief AI Architect Training Plan by Baidu Huangpu Academy](https://ai.baidu.com/tech/paddle/huangpu)
-* TensorFlow Core and TensorFlow Addons contributer
-* SuperHero for [Rasa](https://github.com/RasaHQ/rasa) (a popular open-sourced machine learning framework for chatbot). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
+* TensorFlow Core contributer and TensorFlow Addons Codeowner.
+* SuperHero for [Rasa](https://github.com/RasaHQ/rasa) (a popular open-sourced deep learning framework for chatbot). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
 * Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
+* [Book] The main auther of <a href="https://www.amazon.com/dp/1801077053" target="_blank">Conversational AI with Rasa</a>. The Rasa co-funder & CTO Alan Nichol wrote the forewrod for us!
+* [Book] The main translator of the Chinese version (<a href="https://www.ituring.com.cn/book/2815" target="_blank">机器学习流水线实战</a>) of [Building Machine Learning Pipelines](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198) by O'reilly
 
 <details>
   <summary>As an active community leader, organizer and speaker, I ...</summary>
@@ -36,12 +38,4 @@ Some facts about me:
 * Sometimes I am entrusted by Google as a TensorFlow ambassador to go to universities to promote TensorFlow
 * I found and manage the Rasa Chinese community, the biggest and well-managed community for Chinese Rasa user
 
-</details>
-
-<details>
-  <summary>The books that I am writing or translating</summary>
-  <br>
-
-* [Orignal writing] A book about Rasa, I am the main auther, as far as I know this is the first book in the world that forcus on Rasa, ETA published in March 2021
-* [Translating] Chinese version of [Building Machine Learning Pipelines by O'reilly](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198), I am one of three translators, ETA published in May 2021
 </details>
