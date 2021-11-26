@@ -26,7 +26,7 @@ Some facts about me:
 * TensorFlow Core contributer and TensorFlow Addons Codeowner.
 * SuperHero for [Rasa](https://github.com/RasaHQ/rasa) (a popular open-sourced deep learning framework for chatbot). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
 * Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
-* [Book] The main auther of <a href="https://www.amazon.com/dp/1801077053" target="_blank">Conversational AI with Rasa</a>. The Rasa co-founder & CTO Alan Nichol wrote the forewrod for us!
+* [Book] The main auther of <a href="https://www.amazon.com/dp/1801077053" target="_blank">Conversational AI with Rasa</a>. Alan Nichol, co-founder and CTO of Rasa, wrote the foreword for us!
 * [Book] The main translator of the Chinese version (<a href="https://www.ituring.com.cn/book/2815" target="_blank">机器学习流水线实战</a>) of [Building Machine Learning Pipelines](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198) by O'reilly
 
 <details>
