@@ -21,7 +21,7 @@ I am Xiaoquan Kong, a passionate and creative developer dedicated to **Deep Neur
 Some facts about me:
 * Ex machine learning engineer lead a team at [ELE.ME](https://www.ele.me/) (a subsidiary of Alibaba Group), directly leaded by and report to VP
 * Machine learning expert and Senior Manager in an industry-leading digital cockpit and smart move solution provider
-* Google Developer Expert (GDE) in Machine Learning ([My page on Google Developer](https://developers.google.com/community/experts/directory/profile/profile-xiaoquan_kong))
+* Google Developer Expert (GDE) in Machine Learning ([My page on Google Developer](https://developers.google.com/community/experts/directory/profile/profile-xiaoquan-kong))
 * Graduated from [Chief AI Architect Training Plan by Baidu Huangpu Academy](https://ai.baidu.com/tech/paddle/huangpu)
 * TensorFlow Core contributer and TensorFlow Addons Codeowner.
 * SuperHero for [Rasa](https://github.com/RasaHQ/rasa) (a popular open-sourced deep learning framework for chatbot). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
