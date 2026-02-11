@@ -1,6 +1,6 @@
 ### Xiaoquan Kong
 
-Building AI systems.
+Building AI systems that ship.
 
 [Website](https://www.xiaoquankong.ai)
 
