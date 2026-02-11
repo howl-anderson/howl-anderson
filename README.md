@@ -2,8 +2,8 @@
 
 Building AI systems.
 
-[[Website](https://www.xiaoquankong.ai)]
+[Website](https://www.xiaoquankong.ai)
 
-[[LinkedIn](https://linkedin.com/in/xiaoquankong)]
+[LinkedIn](https://linkedin.com/in/xiaoquankong)
 
-[[Google Scholar](https://scholar.google.com/citations?user=Fd4PN4YAAAAJ)]
+[Google Scholar](https://scholar.google.com/citations?user=Fd4PN4YAAAAJ)
