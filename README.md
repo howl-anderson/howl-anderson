@@ -1,43 +1,9 @@
-### Hi there 👋
+### Xiaoquan Kong
 
-<!--
-**howl-anderson/howl-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI systems.
 
-Here are some ideas to get you started:
+[[Website](https://www.xiaoquankong.ai)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[[LinkedIn](https://linkedin.com/in/xiaoquankong)]
 
-
-I am Xiaoquan Kong, a passionate and creative developer dedicated to **Deep Neural network Systems** and **Chatbots**.
-
-Some facts about me:
-* Ex machine learning engineer lead a team at [ELE.ME](https://www.ele.me/) (a subsidiary of Alibaba Group), directly led by and report to VP
-* Head of conversational AI team. Leading a team of more than 11 people engaged in the research and development of AI assistant systems.
-* Google Developer Expert (GDE) in Machine Learning (<a href="https://developers.google.com/community/experts/directory/profile/profile-xiaoquan-kong" target="_blank">My page on Google Developer</a>)
-* A mentor of <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/tensorflow" target="_blank">TensorFlow team in Google Summer of Code 2022</a>
-* Graduated from [Chief AI Architect Training Plan by Baidu Huangpu Academy](https://ai.baidu.com/tech/paddle/huangpu)
-* TensorFlow Core contributor and TensorFlow Addons Codeowner.
-* SuperHero for [Rasa](https://github.com/RasaHQ/rasa) (a popular open-sourced deep learning framework for chatbot). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
-* Top 4% contributor for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
-* [Book] The main author of <a href="https://www.amazon.com/dp/1801077053" target="_blank">Conversational AI with Rasa</a>. Alan Nichol, co-founder and CTO of Rasa, wrote the foreword for us!
-* [Book] The main author of <a href="http://www.broadview.com.cn/book/5958" target="_blank">Rasa in Action (in Chinese:《Rasa实战：构建开源对话机器人》)</a>. Alan Nichol, co-founder and CTO of Rasa, wrote the foreword for us!
-* [Book] The main translator of the Chinese version (<a href="https://www.ituring.com.cn/book/2815" target="_blank">《机器学习流水线实战》</a>) of [Building Machine Learning Pipelines](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198) by O'reilly
-
-<details>
-  <summary>As an active community leader, organizer and speaker, I ...</summary>
-  <br>
-
-* I am the lead organizer for Shanghai TensorFlow User Group (TFUG), organize or co-organize events that directly influence more than 6000 people every year
-* I frequently share my knowledge & thought as a speaker at community events, such as Google TensorFlow Dev Summit Extended, Google DevFest and TensorFlow salons, influence more than 4000 people directly
-* Sometimes I am entrusted by Google as a TensorFlow ambassador to go to universities to promote TensorFlow
-* I found and manage the Rasa Chinese community, the biggest and well-managed community for Chinese Rasa user
-
-</details>
+[[Google Scholar](https://scholar.google.com/citations?user=Fd4PN4YAAAAJ)]
