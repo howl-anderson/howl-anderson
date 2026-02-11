@@ -20,7 +20,7 @@ I am Xiaoquan Kong, a passionate and creative developer dedicated to **Deep Neur
 
 Some facts about me:
 * Ex machine learning engineer lead a team at [ELE.ME](https://www.ele.me/) (a subsidiary of Alibaba Group), directly leaded by and report to VP
-* Head of conversational AI team. Leading a team of more than 40 people engaged in the research and development of AI assistant systems.
+* Head of conversational AI team. Leading a team of more than 11 people engaged in the research and development of AI assistant systems.
 * Google Developer Expert (GDE) in Machine Learning (<a href="https://developers.google.com/community/experts/directory/profile/profile-xiaoquan-kong" target="_blank">My page on Google Developer</a>)
 * A mentor of <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/tensorflow" target="_blank">TensorFlow team in Google Summer of Code 2022</a>
 * Graduated from [Chief AI Architect Training Plan by Baidu Huangpu Academy](https://ai.baidu.com/tech/paddle/huangpu)
