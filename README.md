@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 I am Xiaoquan Kong, a passionate and creative developer dedicated to **Deep Neural network Systems** and **Chatbots**.
 
 Some facts about me:
-* Ex machine learning engineer lead a team at [ELE.ME](https://www.ele.me/) (a subsidiary of Alibaba Group), directly leaded by and report to VP
+* Ex machine learning engineer lead a team at [ELE.ME](https://www.ele.me/) (a subsidiary of Alibaba Group), directly led by and report to VP
 * Head of conversational AI team. Leading a team of more than 11 people engaged in the research and development of AI assistant systems.
 * Google Developer Expert (GDE) in Machine Learning (<a href="https://developers.google.com/community/experts/directory/profile/profile-xiaoquan-kong" target="_blank">My page on Google Developer</a>)
 * A mentor of <a href="https://summerofcode.withgoogle.com/programs/2022/organizations/tensorflow" target="_blank">TensorFlow team in Google Summer of Code 2022</a>
 * Graduated from [Chief AI Architect Training Plan by Baidu Huangpu Academy](https://ai.baidu.com/tech/paddle/huangpu)
-* TensorFlow Core contributer and TensorFlow Addons Codeowner.
+* TensorFlow Core contributor and TensorFlow Addons Codeowner.
 * SuperHero for [Rasa](https://github.com/RasaHQ/rasa) (a popular open-sourced deep learning framework for chatbot). Rasa official [interviews and reports](https://blog.rasa.com/superhero-spotlight-xiaoquan-kong/) about me
-* Top 4% contributer for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
-* [Book] The main auther of <a href="https://www.amazon.com/dp/1801077053" target="_blank">Conversational AI with Rasa</a>. Alan Nichol, co-founder and CTO of Rasa, wrote the foreword for us!
-* [Book] The main auther of <a href="http://www.broadview.com.cn/book/5958" target="_blank">Rasa in Action (in Chinese:《Rasa实战：构建开源对话机器人》)</a>. Alan Nichol, co-founder and CTO of Rasa, wrote the foreword for us!
+* Top 4% contributor for Rasa, most Chinese language related functions in Rasa are contributed or tested by me
+* [Book] The main author of <a href="https://www.amazon.com/dp/1801077053" target="_blank">Conversational AI with Rasa</a>. Alan Nichol, co-founder and CTO of Rasa, wrote the foreword for us!
+* [Book] The main author of <a href="http://www.broadview.com.cn/book/5958" target="_blank">Rasa in Action (in Chinese:《Rasa实战：构建开源对话机器人》)</a>. Alan Nichol, co-founder and CTO of Rasa, wrote the foreword for us!
 * [Book] The main translator of the Chinese version (<a href="https://www.ituring.com.cn/book/2815" target="_blank">《机器学习流水线实战》</a>) of [Building Machine Learning Pipelines](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198) by O'reilly
 
 <details>
